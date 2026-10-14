@@ -4,8 +4,6 @@ A ground station for a simulated robot vehicle. A Python simulator plays the veh
 
 > Everything here is simulated. The safety logic is a demonstration and is not certified for any real vehicle.
 
-![Dashboard](docs/dashboard.png)
-
 ## How it fits together
 
 ```mermaid
